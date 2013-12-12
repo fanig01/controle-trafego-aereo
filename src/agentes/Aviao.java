@@ -18,6 +18,7 @@ public class Aviao extends Agent{
 			System.out.println("Permissao para aterrisar na pista "+ pistaLivre);
 			//dispara comportamento
 			addBehaviour(new comportamentoAviao(this));
+			//colocar mais comportamentos
 		}
 		else{
 			System.out.println("Nao pretendo aterrissar !");

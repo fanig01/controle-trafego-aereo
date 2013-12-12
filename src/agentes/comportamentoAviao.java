@@ -11,7 +11,7 @@ public comportamentoAviao(Agent a){
 }
 	@Override
 	public void action() {
-		//fazer lógica para quando encontrar pista vazia, aterrissar
+		//fazer lógica para quando encontrar pista vazia, o aviao aterrissar
 		
 	}
 
