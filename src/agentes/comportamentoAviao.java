@@ -12,6 +12,8 @@ public comportamentoAviao(Agent a){
 	@Override
 	public void action() {
 		//fazer lógica para quando encontrar pista vazia, o aviao aterrissar
+		System.out.println(myAgent.getLocalName());
+		
 		
 	}
 
