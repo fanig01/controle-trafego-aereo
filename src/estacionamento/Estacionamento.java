@@ -8,6 +8,8 @@ import jade.domain.FIPAException;
 import jade.domain.FIPAAgentManagement.*;
 import jade.lang.acl.ACLMessage;
 
+import estacionamento.Comportamentos;
+
 public class Estacionamento extends Agent {
 
 	protected void setup() {

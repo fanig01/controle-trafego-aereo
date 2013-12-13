@@ -1,6 +1,9 @@
 package estacionamento;
 
 import jade.core.Agent;
+
+import estacionamento.Comportamentos;
+
 import jade.core.behaviours.*;
 import jade.core.AID;
 import jade.domain.DFService;
